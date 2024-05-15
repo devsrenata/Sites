@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+.col-md ul li{
+    list-style: none;
+    text-decoration: none;
+    
+}
+
+.fontTopo{
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 300;
+    font-style: normal;;
+    font-size: large;
+    
+}
+
+.bgtopo{
+    background-image: url(img/gif1.gif);
+    width: 100%;
+}
+
+
+.bgrodape{
+    background-color: white;
+    color: black;
+
+}
+
+.col-md a:hover{
+    color: rgb(0, 30, 255);
+    
+}
+
+.col-md a {
+    text-decoration: none;
+    color: black;
+}
+
+.bgconteudo{
+    background-color: rgb(210, 196, 196);
+}
+
+.pad{
+    padding-top: 40px;
+}
+
+.nav a{
+    color: black;
+}
