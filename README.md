@@ -7,7 +7,10 @@ O projeto tem 3 páginas.
  1. A Cantora 🎤  
 Nesta seção, o usuário pode conhecer um pouco sobre a trajetória de Beyoncé, desde seu início até se tornar uma das maiores artistas da música pop. Informações como seus álbuns, prêmios e conquistas são abordadas.
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/15068e37-8b6a-4c1c-b8d8-f98e87a96881" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/55319129-b48a-4cc4-b969-e0af3fcfc6f7" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/eaf64fa1-3087-4c64-9cdc-599497f8c816" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/180b472d-fe6e-4ce6-893e-78f836ca3d47" />
+
 
 
 2. A Música 🎼  
