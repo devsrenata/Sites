@@ -23,7 +23,7 @@ Aqui, o foco é nas canções mais famosas da artista, incluindo detalhes sobre 
 
 
 3. O Videoclipe 🎥  
-Nesta parte, os usuários podem explorar alguns dos videoclipes de Beyoncé, conhecendo mais sobre a produção e o impacto visual das suas obras. A seção também conta com um carrossel de imagens que destaca momentos marcantes da carreira da artista.
+Nesta parte, os usuários podem explorar um dos videoclipes de Beyoncé, conhecendo mais sobre a produção e o impacto visual das suas obras marcantes da carreira da artista.
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/d0cd3a2d-5120-4524-85a2-ee9b519b0d1b" />
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/6cb20577-381a-4a2a-8261-99b14358f46c" />
